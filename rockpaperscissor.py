@@ -1,3 +1,5 @@
+#varad parchure
+
 from random import randint
 
 l= ["rock", "paper", "scissors"]
